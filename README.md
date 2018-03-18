@@ -3,7 +3,7 @@
 ## Basic Info
 
 <p>
-This is a random front end template which showcases a basic Admin Page with dummy data.
+This is a random Admin dashboard template with dummy data done as a hobby project.
  </p>
  
  ## Check it out:
